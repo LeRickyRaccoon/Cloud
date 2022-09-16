@@ -1,0 +1,43 @@
+Twitch! Make me a sandwich
+Using twitch Raid Mechanics as a way to send your viewers sabotage another streamer
+Desing Finalised by Saturday EoD
+Finish TDD on Sunday
+Having our first playable prototype Sunday EoD 
+
+
+
+Take the riskiest features and include them in the prototype
+Develop and test them ASAP
+Key Elements we want to nail 
+Controls
+Door opening\Closing
+
+Possible Ideas for Desing:
+Exploit what Streamer want
+Interaction between twitch and Audience
+
+Ideas:
+Different Crane heads, one for picking and one for suck food.
+
+
+
+FPP:
+Crane 
+Cnveyor Belt (2)
+Twitch Spawn command
+
+Milestone: 
+- having Orders
+- 
+
+
+
+
+Similar Games:
+Cook, Serve, Delicious! 3?! - Vertigo Gaming
+Potion Party
+Space Food Truck
+Surgeon Simulator 2
+Conduct Together!
+Cake Mania
+Catastronauts
